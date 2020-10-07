@@ -29,6 +29,5 @@ int main()
 		Duree.heure, Duree.minute,					//Durée ajoutée.
 		HeureFin.heure,HeureFin.minute);			//Heure d'arrivée.
 
-	//Fin du programme.
-	return(EXIT_SUCCESS);
+	return(EXIT_SUCCESS);		//Fin du programme.
 }
